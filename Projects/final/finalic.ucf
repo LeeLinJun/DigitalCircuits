@@ -1,0 +1,30 @@
+NET "key<0>" LOC =P11;
+NET "key<1>" LOC =L3;
+NET "key<2>" LOC =K3;
+NET "key<3>" LOC =B4;
+NET "key<4>" LOC =G3;
+NET "key<5>" LOC =F3;
+NET "key<6>" LOC =E2;
+NET "key<7>" LOC =N3;
+
+
+
+NET "clk" LOC = B8;
+
+NET "rst" LOC = G12;
+NET "quick" LOC = C11;
+
+NET "cea" LOC = K14;
+NET "ceb" LOC= M13;
+NET "cec" LOC =J12;
+NET "ced" LOC = F12;
+
+
+NET "num<7>"LOC=N13;
+NET "num<6>"LOC=L14;
+NET "num<5>"LOC=H12;
+NET "num<4>"LOC=N14;
+NET "num<3>"LOC=N11;
+NET "num<2>"LOC=P12;
+NET "num<1>"LOC=L13;
+NET "num<0>"LOC=M12;
